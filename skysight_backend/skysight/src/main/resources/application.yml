@@ -1,0 +1,3 @@
+aemet:
+  key: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqbGFjYXN0YWNAaWVzY2gub3JnIiwianRpIjoiYTEzOTFiMDgtN2M1Yi00MTNkLTk1YjAtZDkwY2IzMjZlZjc2IiwiaXNzIjoiQUVNRVQiLCJpYXQiOjE2ODE1MDc5MTgsInVzZXJJZCI6ImExMzkxYjA4LTdjNWItNDEzZC05NWIwLWQ5MGNiMzI2ZWY3NiIsInJvbGUiOiIifQ.g9nujshQ-KjKKRWOrsFWOseuxAQ0QIqfSxvoIC4NAK4
+  url: https://opendata.aemet.es/opendata/api/
